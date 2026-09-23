@@ -1,0 +1,14 @@
+.info-box {
+  padding: 24px;
+  margin: 24px 0;
+  background-color: var(--light-color);
+  border-left: 4px solid var(--link-color);
+}
+
+.info-box h3 {
+  margin-top: 0;
+}
+
+.info-box p {
+  margin-bottom: 0;
+}
