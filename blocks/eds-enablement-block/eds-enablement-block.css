@@ -1,0 +1,11 @@
+.eds-enablement-block {
+  padding: 24px;
+  margin: 24px 0;
+  background-color: var(--light-color);
+  border: 2px solid var(--dark-color);
+  border-radius: 8px;
+}
+
+.eds-enablement-block .eds-enablement-block-row {
+  padding: 8px 0;
+}
